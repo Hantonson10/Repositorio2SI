@@ -1,4 +1,4 @@
-# Repositorio de GitHub para las asignaturas de 2I del curso 2021-2022
+# Repositorio de GitHub para las asignaturas de 2SI del curso 2021-2022
 
 Este repositorio está creado con el fin de compartir código entre los alumnos de 2SI. Leer detenidamente las reglas de uso.
 
